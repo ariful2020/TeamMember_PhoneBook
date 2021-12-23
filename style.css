@@ -1,0 +1,181 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* ================ Developer section =================== */
+section {
+    width: 100%;
+    padding-top: 70px;
+    margin-bottom: 50px;
+    overflow: hidden;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.section-title {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 50px;
+     position:relative;
+}
+.section-title:after{
+    position: absolute;
+    content: '';
+    display: block;
+    width: 120px;
+    height: 4px;
+    background: red;
+    top: 45px;
+    left: 45%;
+    text-transform: translate(50%, 50%);
+}
+.grid {
+    text-align: center;
+}
+
+.devs-items{
+    width: 31%;
+    float: left;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 7px;
+    margin: 10px 10px;
+    transition: .5s ease-in-out;
+    cursor: pointer;
+}
+.grid-item{
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 7px;
+    margin: 10px 10px;
+    transition: .5s ease-in-out;   
+}
+.clear::after{
+    display: block;
+    content: "";
+    clear: both;
+}
+.grid-item:hover {
+	box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.15);    
+}
+.devs-items .devs-pic {
+	width: 150px;
+	height: 150px;
+	border-radius: 15px;
+	text-align: center;
+	margin-bottom: 10px;
+	border: 5px solid #ddd;
+    cursor: pointer;
+    transition: 1s ease-in-out;
+    transform: scale(1);
+}
+.devs-items .devs-pic:hover{
+    transition: 1s ease-in-out;
+    transform: scale(1);
+}
+
+.dev-des {
+    margin-bottom: 15px;
+}
+.dev-name {
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+.devs-id{
+    text-align: center; 
+    margin-bottom: 10px;
+}
+.dev-des {
+    width: 230px;
+    margin: auto;
+    text-align: left;
+}
+
+/* ============== Student List ==================== */
+.std-item{
+    width: 18%;
+    float: left;
+}
+.std-img{
+    width: 100px;
+    height: 100px;
+    border: 3px solid #ddd;
+    border-radius: 7px;
+}
+.std-title {
+	font-size: 18px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+.std-des{
+    width: 180px;
+    margin: auto;
+    text-align: left;
+}
+.roll-collon {
+	margin-left: 55px;
+}
+.pas-collon {
+	margin-left: 10px;
+}
+.std-des tr {
+	font-size: 15px;
+	font-family: arial;
+	font-weight: normal;
+}
+.std-des th {
+	font-weight: 400;
+	padding: 3px 2px;
+}
+#rst-btn {
+    border: 1px solid #ddd;
+    padding:3px 5px;
+    cursor: pointer;
+}
+
+/* ============= Phone Number ============= */
+
+.table{
+    width: 100%;
+}
+.table table {
+    width: 100%;
+}
+.table table thead tr th {
+	text-transform: uppercase;
+}
+.table table {
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px 3px rgba(0,0,0,0.12);
+}
+.table th{
+    height: 50px;
+    border-bottom: 5px solid #fff;
+    background-color: #D6EEEE;
+}
+.table table, tr{
+    border-bottom: 1px solid #ddd;
+    cursor: pointer;
+    border-collapse: collapse;
+}
+
+.table table, tbody{
+   margin-top: 20px;
+}
+.table table tbody tr:hover {
+    background-color: #D6EEEE;
+  }
+ 
+.pImg{
+   width: 40px;
+   height: 40px;
+   border-radius: 5px;
+}
