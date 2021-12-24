@@ -14,7 +14,7 @@ const devs = [
         Skill : 'Mern Stack',
         Location : 'Mirpur',
         Age : 35,
-        Image : 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg'
+        Image : 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg'
     },
     {
         Id : 03,
@@ -22,7 +22,7 @@ const devs = [
         Skill : 'PHP Developer',
         Location : 'Gazipur',
         Age : 23,
-        Image : 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg'
+        Image : 'https://img.freepik.com/free-photo/indoor-picture-cheerful-handsome-young-man-having-folded-hands-looking-directly-smiling-sincerely-wearing-casual-clothes_176532-10257.jpg'
     },
     {
         Id : 04,
@@ -30,7 +30,7 @@ const devs = [
         Skill : 'WordPress Developer',
         Location : 'Gazipur',
         Age : 25,
-        Image : 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg'
+        Image : 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg'
     },
     {
         Id : 05,
@@ -38,7 +38,7 @@ const devs = [
         Skill : 'Python Developer',
         Location : 'Dinajpur',
         Age : 22,
-        Image : 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg'
+        Image : 'https://img.freepik.com/free-photo/indoor-picture-cheerful-handsome-young-man-having-folded-hands-looking-directly-smiling-sincerely-wearing-casual-clothes_176532-10257.jpg'
     },
     {
         Id : 06,
@@ -46,6 +46,6 @@ const devs = [
         Skill : 'Laravel Developer',
         Location : 'Dhaka',
         Age : 22,
-        Image : 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg'
+        Image : 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg'
     }
 ]

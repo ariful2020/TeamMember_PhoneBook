@@ -8,7 +8,7 @@ const phoneBook = [
       location : 'Sirajganj'
     },
     {
-      Img      : 'https://i1.wp.com/www.proariful.me/php_assets/uploads/2021/06/Arif1.png',
+      Img      : 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg',
       name     : 'Zahid',
       mobileNO : '01745789547',
       relation : 'Uncle',
@@ -16,7 +16,7 @@ const phoneBook = [
     },
     
     {
-      Img      : 'https://i1.wp.com/www.proariful.me/php_assets/uploads/2021/06/Arif1.png',
+      Img      : 'https://img.freepik.com/free-photo/indoor-picture-cheerful-handsome-young-man-having-folded-hands-looking-directly-smiling-sincerely-wearing-casual-clothes_176532-10257.jpg',
       name     : 'Shrif',
       mobileNO : '01745789547',
       relation : 'Friend',
@@ -31,7 +31,7 @@ const phoneBook = [
       location : 'Sirajganj'
     },
     {
-      Img      : 'https://i1.wp.com/www.proariful.me/php_assets/uploads/2021/06/Arif1.png',
+      Img      : 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg',
       name     : 'Hasan',
       mobileNO : '01745789547',
       relation : 'Brother',
@@ -39,7 +39,7 @@ const phoneBook = [
   },
 
   {
-     Img      : 'https://i1.wp.com/www.proariful.me/php_assets/uploads/2021/06/Arif1.png',   
+     Img      : 'https://img.freepik.com/free-photo/indoor-picture-cheerful-handsome-young-man-having-folded-hands-looking-directly-smiling-sincerely-wearing-casual-clothes_176532-10257.jpg',   
      name     : 'Khalek',
      mobileNO : '01745789547',
      relation : 'Brother',
@@ -47,7 +47,7 @@ const phoneBook = [
  },
 
  {
-    Img      : 'https://i1.wp.com/www.proariful.me/php_assets/uploads/2021/06/Arif1.png',  
+    Img      : 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg',  
     name     : 'Malek',
     mobileNO : '01745789547',
     relation : 'Brother',
@@ -63,7 +63,7 @@ const phoneBook = [
  },
 
  {
-    Img      : 'https://i1.wp.com/www.proariful.me/php_assets/uploads/2021/06/Arif1.png',
+    Img      : 'https://img.freepik.com/free-photo/indoor-picture-cheerful-handsome-young-man-having-folded-hands-looking-directly-smiling-sincerely-wearing-casual-clothes_176532-10257.jpg',
     name     : 'Ridoy',
     mobileNO : '01745789547',
     relation : 'Brother',
@@ -79,7 +79,7 @@ const phoneBook = [
  },
 
  {
-    Img      : 'https://i1.wp.com/www.proariful.me/php_assets/uploads/2021/06/Arif1.png',
+    Img      : 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg',
     name     : 'Moni',
     mobileNO : '01745789547',
     relation : 'Uncle',
@@ -95,7 +95,7 @@ const phoneBook = [
  },
 
  {
-    Img      : 'https://i1.wp.com/www.proariful.me/php_assets/uploads/2021/06/Arif1.png',   
+    Img      : 'https://img.freepik.com/free-photo/indoor-picture-cheerful-handsome-young-man-having-folded-hands-looking-directly-smiling-sincerely-wearing-casual-clothes_176532-10257.jpg',   
     name     : 'Masud',
     mobileNO : '01745789547',
     relation : 'Uncle',
@@ -103,7 +103,7 @@ const phoneBook = [
  },
 
  {
-    Img      : 'https://i1.wp.com/www.proariful.me/php_assets/uploads/2021/06/Arif1.png',   
+    Img      : 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg',   
     name     : 'Siyam',
     mobileNO : '01745789547',
     relation : 'Brother',
@@ -111,7 +111,7 @@ const phoneBook = [
  },
 
  {
-    Img      : 'https://i1.wp.com/www.proariful.me/php_assets/uploads/2021/06/Arif1.png',   
+    Img      : 'https://img.freepik.com/free-photo/indoor-picture-cheerful-handsome-young-man-having-folded-hands-looking-directly-smiling-sincerely-wearing-casual-clothes_176532-10257.jpg',   
     name     : 'Atik',
     mobileNO : '01745789547',
     relation : 'Brother',
@@ -127,7 +127,7 @@ const phoneBook = [
  },
 
  {
-    Img      : 'https://i1.wp.com/www.proariful.me/php_assets/uploads/2021/06/Arif1.png',  
+    Img      : 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg',  
     name     : 'Hasem',
     mobileNO : '01745789547',
     relation : 'Uncle',
@@ -143,7 +143,7 @@ const phoneBook = [
  },
 
  {
-    Img      : 'https://i1.wp.com/www.proariful.me/php_assets/uploads/2021/06/Arif1.png', 
+    Img      : 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg', 
     name     : 'Amerul',
     mobileNO : '01745789547',
     relation : 'Brother',

@@ -32,7 +32,7 @@ section {
     display: block;
     width: 120px;
     height: 4px;
-    background: red;
+    background: #9ce6e6;
     top: 45px;
     left: 45%;
     text-transform: translate(50%, 50%);

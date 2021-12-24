@@ -11,7 +11,7 @@ const std_data = [
         result   : 'Pass'
     },
     {
-        image    : 'https://i1.wp.com/www.proariful.me/php_assets/uploads/2021/06/Arif1.png',
+        image    : 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg',
         name     : 'Shariful Islam',
         exam     : 'S.S.C',
         roll     : 10215482,
@@ -22,7 +22,7 @@ const std_data = [
         result   : 'Pass'
     },
     {
-        image    : 'https://i1.wp.com/www.proariful.me/php_assets/uploads/2021/06/Arif1.png',
+        image    : 'https://img.freepik.com/free-photo/indoor-picture-cheerful-handsome-young-man-having-folded-hands-looking-directly-smiling-sincerely-wearing-casual-clothes_176532-10257.jpg',
         name     : 'Tariful Islam',
         exam     : 'S.S.C',
         roll     : 10215483,
@@ -44,7 +44,7 @@ const std_data = [
         result   : 'Failed'
     },
     {
-        image    : 'https://i1.wp.com/www.proariful.me/php_assets/uploads/2021/06/Arif1.png',
+        image    : 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg',
         name     : 'Mehedi Hasan',
         exam     : 'S.S.C',
         roll     : 10215485,
@@ -66,7 +66,7 @@ const std_data = [
         result   : 'Pass'
     },
     {
-        image    : 'https://i1.wp.com/www.proariful.me/php_assets/uploads/2021/06/Arif1.png',
+        image    : 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg',
         name     : 'Rubel Hasan',
         exam     : 'S.S.C',
         roll     : 10215487,
@@ -77,7 +77,7 @@ const std_data = [
         result   : 'Pass'
     },
     {
-        image    : 'https://i1.wp.com/www.proariful.me/php_assets/uploads/2021/06/Arif1.png',
+        image    : 'https://img.freepik.com/free-photo/indoor-picture-cheerful-handsome-young-man-having-folded-hands-looking-directly-smiling-sincerely-wearing-casual-clothes_176532-10257.jpg',
         name     : 'Siyam Sheikh',
         exam     : 'S.S.C',
         roll     : 10215488,
@@ -88,7 +88,7 @@ const std_data = [
         result   : 'Failed'
     },
     {
-        image    : 'https://i1.wp.com/www.proariful.me/php_assets/uploads/2021/06/Arif1.png',
+        image    : 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg',
         name     : 'Ashikur Rahman',
         exam     : 'S.S.C',
         roll     : 10215489,
